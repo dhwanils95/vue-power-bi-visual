@@ -27,7 +27,7 @@ const localizationFolders = fs.existsSync(resourcesFolder) && fs.readdirSync(res
 const  statsLocation = "../../webpack.statistics.html";
 
 // babel options to support IE11
-let babelOptions = {
+const babelOptions = {
     "presets": [
         [
             require.resolve('@babel/preset-env'),
