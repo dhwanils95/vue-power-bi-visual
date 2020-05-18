@@ -1,0 +1,25 @@
+{
+  "visual": {
+    "name": "pbi",
+    "displayName": "pbi",
+    "guid": "pbiB626BE26C5BA4DFAAA77325B73DD0655",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "My Custom Viz",
+    "supportUrl": "localhost",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "2.6.0",
+  "author": {
+    "name": "Dhwanil Shah",
+    "email": "dhwanils95@gmail.com"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": null,
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
